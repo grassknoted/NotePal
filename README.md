@@ -1,2 +1,4 @@
 # NotePal
-NotePal - a simple text editor for Linux
+
+-[x]NotePal is a simple Text editor.
+-[] NotePal.
