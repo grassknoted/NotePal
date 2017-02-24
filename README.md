@@ -25,6 +25,6 @@ If you encounter dependency errors, simply run:
 ```sudo apt-get install gtk2.0```
 
 followed by the compile command again.
-
+ 
 # Credits:
 I would like to thank ```Glenn Schemenauer``` for the helpful documentation provided by him.
