@@ -27,4 +27,4 @@ If you encounter dependency errors, simply run:
 followed by the compile command again.
 
 # Credits:
-I would like to thank <Glenn Schemenauer> for the helpful documentation provided by him.
+I would like to thank ```Glenn Schemenauer``` for the helpful documentation provided by him.
