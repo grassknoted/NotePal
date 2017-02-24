@@ -32,7 +32,7 @@ typedef struct {
    GtkWidget *cut;
    GtkWidget *copy;
    GtkWidget *paste;
-} EditMenu;
+} EditMenu; 
  
 typedef struct {
    GtkWidget *menu_label;
