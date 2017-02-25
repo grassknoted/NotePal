@@ -12,7 +12,9 @@ It has only the basic functions such as:
 
 ## Installation
 
-To install **NotePal**, simply use compile the command:
+##### To use **NotePal**, simply run the executable file: '_Notepal_'
+
+If you wish to change the properties **NotePal**, simply use compile the command:
 
 ```gcc -g -Wall CompileNotePal.c -o NotePal `pkg-config --cflags --libs gtk+-2.0````
 
