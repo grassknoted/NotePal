@@ -16,7 +16,7 @@ It has only the basic functions such as:
 
 If you wish to change the properties **NotePal**, simply use compile the command:
 
-```gcc -g -Wall CompileNotePal.c -o NotePal `pkg-config --cflags --libs gtk+-2.0````
+```gcc -g -Wall CompileNotePal.c -o NotePal `pkg-config --cflags --libs gtk+-2.0```
 
 Which produces an executable **NotePal** instance.
 
